@@ -1,5 +1,6 @@
 # CSS
 Simple CSS Animation Practice
 
-[Gallery](../shaheerkhalid/master/CSS/gallery.html)
+[Gallery](https://shaheerkhalid.github.io/CSS/gallery.html)
+[Robot Friend](https://shaheerkhalid.github.io/CSS/robot.html)
 
