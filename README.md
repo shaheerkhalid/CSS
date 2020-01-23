@@ -1,8 +1,10 @@
 # CSS
 Simple CSS Animation Practice
 
-[Gallery](https://shaheerkhalid.github.io/CSS/gallery.html)
+[Gallery - flexbox](https://shaheerkhalid.github.io/CSS/gallery.html)
 
 
-[Robot Friend](https://shaheerkhalid.github.io/CSS/robot.html)
+[Robot Friend - CSS3 Transition](https://shaheerkhalid.github.io/CSS/robot.html)
 
+
+[Grid](https://shaheerkhalid.github.io/CSS/grid.html)
